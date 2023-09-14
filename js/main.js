@@ -18,7 +18,7 @@ window.onload = function(){
         square.style.fontSize = sw*3/4 + 'px';
         container.appendChild(square);
     }
-
+//hola mundo
     var fonts = {
         'k' : '&#9818;',
         'q' : '&#9819;',
